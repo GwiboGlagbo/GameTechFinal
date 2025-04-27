@@ -195,7 +195,7 @@ GameObject:
   - component: {fileID: 399352395}
   m_Layer: 0
   m_Name: Square
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -299,7 +299,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -3.792441}
+  m_Offset: {x: 0, y: -3.8343906}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -310,7 +310,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 10.24, y: 2.655118}
+  m_Size: {x: 10.24, y: 2.5712187}
   m_EdgeRadius: 0
 --- !u!1 &1212051032
 GameObject:
@@ -452,11 +452,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5195025869947694942, guid: 06eefaa5b9bd4b9448d49a556a7c706f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.457
+      value: 7.77
       objectReference: {fileID: 0}
     - target: {fileID: 5195025869947694942, guid: 06eefaa5b9bd4b9448d49a556a7c706f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.008
+      value: -3.06
       objectReference: {fileID: 0}
     - target: {fileID: 5195025869947694942, guid: 06eefaa5b9bd4b9448d49a556a7c706f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -493,6 +493,22 @@ PrefabInstance:
     - target: {fileID: 6086009509730770381, guid: 06eefaa5b9bd4b9448d49a556a7c706f, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6263870623196741113, guid: 06eefaa5b9bd4b9448d49a556a7c706f, type: 3}
+      propertyPath: m_Size.x
+      value: 7.978744
+      objectReference: {fileID: 0}
+    - target: {fileID: 6263870623196741113, guid: 06eefaa5b9bd4b9448d49a556a7c706f, type: 3}
+      propertyPath: m_Size.y
+      value: 9.2186985
+      objectReference: {fileID: 0}
+    - target: {fileID: 6263870623196741113, guid: 06eefaa5b9bd4b9448d49a556a7c706f, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.63102317
+      objectReference: {fileID: 0}
+    - target: {fileID: 6263870623196741113, guid: 06eefaa5b9bd4b9448d49a556a7c706f, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.21325397
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -735,7 +751,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9145238231736848279, guid: f9a74d23d35e441479f852ca61e717ba, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -6.34
       objectReference: {fileID: 0}
     - target: {fileID: 9145238231736848279, guid: f9a74d23d35e441479f852ca61e717ba, type: 3}
       propertyPath: m_LocalPosition.y
