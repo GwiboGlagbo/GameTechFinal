@@ -2,7 +2,7 @@
 MSCH-C220 Game Jam, April 2025
 
 ## Theme
-You only have one bullet and one life
+You only have one bullet and one life. There's also only one ending (You always die).
 
 ## Game Play
 Objective
