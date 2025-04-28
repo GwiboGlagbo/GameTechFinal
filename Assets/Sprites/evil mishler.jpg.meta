@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0cce19db511e8614c8cff763c4a8ad68
+guid: 217538c78936f2c458f34a2bd45a395e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,70 +95,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: MishlerSpritesheet_0
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 1152
-        width: 832
-        height: 864
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57780d4b3b8478a44916aa3eb492884e
-      internalID: -524693315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MishlerSpritesheet_1
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 1152
-        width: 832
-        height: 864
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de415e07a379b7744a99ae2bf8eb5145
-      internalID: -1142619752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MishlerSpritesheet_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 832
-        height: 864
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f712956205b88145b9167cfda81fcbd
-      internalID: -652942350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -169,10 +106,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      MishlerSpritesheet_0: -524693315
-      MishlerSpritesheet_1: -1142619752
-      MishlerSpritesheet_2: -652942350
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
