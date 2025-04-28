@@ -15,7 +15,7 @@ Github struggles and animations were a major struggle.
 Player movement, player shooting, boss movement, boss shooting
 
 ## References
-Undertale music
+Undertale music, Spongebob
 
 ## Future Development
 N/A
